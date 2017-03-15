@@ -34,6 +34,7 @@ position 3 and 6 of the array (use the console.log() function to print to the co
 The outputted value should be 9.
 */
 
+console.log
 
 
 
@@ -60,7 +61,8 @@ var car;
 
 /*
 Exercise #5
-Give the car object a property called "colour" and assign it the value of "black". Test that your code works correctly by outputing property make to the console. You should see the value "black" printed out.
+Give the car object a property called "colour" and assign it the value of "black". 
+Test that your code works correctly by outputing property make to the console. You should see the value "black" printed out.
 */
 
 
