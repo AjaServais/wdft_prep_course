@@ -20,7 +20,7 @@ after each iteration of for loop.
 
 for(var i=0;i<10;i++){ 
 numbers.push(i);
-
+console.log(numbers);
 
  
     //use the array push() method here.
