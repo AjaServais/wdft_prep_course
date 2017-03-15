@@ -23,6 +23,15 @@ console.log (a && b && c);
 var answer1 = 10 - 3 * 5/4 + 202 % 3;
 console.log (answer1);
 
+var answer2 = 10 - (3 * (5/4) + (202 % 3));
+console.log (answer2);
+
+//Convert the Integer 12 into a String.
+//Convert the String "113" into an Integer.
+//Convert the String "1.12356" into a Float.
+//Convert the String "Hello World" into an Integer and save it to the variable x. Print x to the console. What do you see? Research the resulting value if you're not sure.
+
+
 
 
 
