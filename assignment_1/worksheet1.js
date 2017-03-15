@@ -1,2 +1,7 @@
-var name;
-var name = "Aja"
+var name = "Aja";
+
+
+
+
+
+
