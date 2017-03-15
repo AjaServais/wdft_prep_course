@@ -1,6 +1,6 @@
-var name;
-var name = "Aja";
-console.log ("Hello"+ name);
+var name = "";
+name = "Aja";
+console.log ("Hello" + name);
 
 
 
