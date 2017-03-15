@@ -14,8 +14,9 @@ Using the loop provided for you below, use an array's push method to insert the 
 */
 
 for(var i=0;i<10;i++){
-numbers.push (0);
-numbers.push (1);
+  numbers.push (i);
+
+
     //use the array push() method here.
 }
 
