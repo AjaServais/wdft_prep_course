@@ -35,7 +35,7 @@ position 3 and 6 of the array (use the console.log() function to print to the co
 The outputted value should be 9.
 */
 
-
+console.log((+numbers[3]) + (+numbers[6]));
 
 
 
