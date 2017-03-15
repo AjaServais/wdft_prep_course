@@ -13,14 +13,14 @@ Using the loop provided for you below, use an array's push method to insert the 
 'If you're not sure how to use the array push method go back and re read this module on data strucutres.'
 The first command is definition of variable i. We define variable i with value 0. That is value from which the 
 loop starts. We usually use variable with name i (shortcut for iteration) - it is coding convention.
-The second command (i < 11) is condition. We check if i is lower than 11. The loop is running while this condition is true.
+The second command (i < 10) is condition. We check if i is lower than 10. The loop is running while this condition is true.
 In the last command (i++), we increment value of the i variable by 1. The value of variable i is incremented 
 after each iteration of for loop.
 */
 
 for(var i=0;i<10;i++){ 
     numbers.push(i);
-return.numbers;
+
 
 
 
