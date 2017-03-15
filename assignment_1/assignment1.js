@@ -22,6 +22,7 @@ for(var i=0;i<10;i++){
 numbers.push(i);
 console.log(numbers);
 
+
  
     //use the array push() method here.
 }
@@ -34,7 +35,8 @@ position 3 and 6 of the array (use the console.log() function to print to the co
 The outputted value should be 9.
 */
 
-console.log
+
+
 
 
 
