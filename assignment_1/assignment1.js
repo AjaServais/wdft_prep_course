@@ -4,7 +4,7 @@ Initialize an empty array below in the variable numbers.
 */
 var numbers;
 console.log ('hello world');
-var numbers = new array ();
+var numbers = [];
 
 /*
 Exercise #2
@@ -19,8 +19,9 @@ after each iteration of for loop.
 */
 
 for(var i=0;i<10;i++){ 
- numbers.push (i);
- console.log(numbers);
+
+ 
+
  
     //use the array push() method here.
 }
