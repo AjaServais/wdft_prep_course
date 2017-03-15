@@ -14,7 +14,14 @@ Using the loop provided for you below, use an array's push method to insert the 
 */
 
 for(var i=0;i<10;i++){
-  numbers.push (i);
+  numbers.push (i); 
+},
+{
+
+return.numbers;
+
+
+
 
 
     //use the array push() method here.
