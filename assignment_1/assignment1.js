@@ -66,13 +66,15 @@ Create an empty object and assign it the variable car below.
 var car;
 var car = {};
 
-
 /*
 Exercise #5
 Give the car object a property called "colour" and assign it the value of "black". 
 Test that your code works correctly by outputing property make to the console. You should see the value "black" printed out.
 */
 
+var car = {
+    colour: "black";
+}
 
 
 
