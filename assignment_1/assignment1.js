@@ -18,7 +18,7 @@ In the last command (i++), we increment value of the i variable by 1. The value 
 after each iteration of for loop.
 */
 
-for(var i=0;i<10;i++){ 
+for (var i=0;i<10;i++){ 
 numbers.push(i);
 console.log(numbers);
 
