@@ -73,8 +73,10 @@ Test that your code works correctly by outputing property make to the console. Y
 */
 
 var car = {
-    colour: "black";
+    colour: "black",
+
 }
 
+console.log(car.colour);
 
 
