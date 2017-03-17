@@ -29,15 +29,20 @@ div
 
 /* FIRST ROW : FLOATS; */
 .a1 {
+
+	float: right;
 }
 
 .b1 {
+	float: left;
 }
 
 .c1 {
+	float: right;
 }
 
 .d1 {
+	float: left;
 }
 
 /* SECOND ROW : DISPLAY */
