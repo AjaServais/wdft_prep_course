@@ -67,7 +67,7 @@ div
 /* THIRD ROW : POSITION */
 
 .a3 {
-	position: left;
+	position: static;
 }
 
 .b3 {
